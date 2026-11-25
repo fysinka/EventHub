@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHub.Web", "EventHub.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHub.Common", "EventHub.Common\EventHub.Common.csproj", "{129E38A8-2A90-494D-8A26-3DD45E6A53C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHub.Data", "EventHub.Data\EventHub.Data.csproj", "{96063A9A-C179-4189-836A-01EB25F9E18D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{129E38A8-2A90-494D-8A26-3DD45E6A53C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{129E38A8-2A90-494D-8A26-3DD45E6A53C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{129E38A8-2A90-494D-8A26-3DD45E6A53C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96063A9A-C179-4189-836A-01EB25F9E18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96063A9A-C179-4189-836A-01EB25F9E18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96063A9A-C179-4189-836A-01EB25F9E18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96063A9A-C179-4189-836A-01EB25F9E18D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
